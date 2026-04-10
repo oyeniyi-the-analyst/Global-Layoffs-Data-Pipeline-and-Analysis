@@ -2,11 +2,11 @@
 
 #Layoffs Data Analytics Project
 
-<p align="center">
-  <a href="https://github.com/oyeniyi-the-analyst/Global_Layoffs_Data_Pipeline_and_Analysis">
-    <img src="https://github.com/oyeniyi-the-analyst/Global_Layoffs_Data_Pipeline_and_Analysis/blob/main/reports/overview_Overview.png?raw=true" width="600"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github.com/oyeniyi-the-analyst/Global-Layoffs-Data-Pipeline-and-Analysis/blob/main/reports/executive_Overview.png?raw=true"
+       alt="Executive Overview Dashboard"
+       width="80%" />
+</div>
 
 ## Project Overview
 The **Layoffs Data Analytics Project** transforms raw global layoffs data from tech startups into **clean, structured datasets** with actionable insights. Leveraging **MySQL, advanced KPIs, and Power BI**, the project highlights workforce trends, company risk profiles, and funding-related layoffs, enabling **data-driven decision-making**.
