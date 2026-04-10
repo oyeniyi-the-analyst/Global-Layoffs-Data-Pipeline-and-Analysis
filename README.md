@@ -2,7 +2,7 @@
 
 #Layoffs Data Analytics Project
 
-[Project Banner] 
+[![Dashboard Overview](https://github.com/oyeniyi-the-analyst/End-to-end--Layoffs-Data-Analytics-Project/blob/main/reports/Dashboard_Overview.png?raw=true)](https://github.com/oyeniyi-the-analyst/End-to-end--Layoffs-Data-Analytics-Project)
 
 
 
